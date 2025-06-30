@@ -74,55 +74,7 @@ These are private engineering colleges in Bangalore and nearby cities (Chennai, 
     - Fees: ~₹1.5–2 L/year
     - Website: https://brindavancollege.com 4
    
+#ALL MEDIAN RANGES FROM 4-6 LPA,(some are gteater but unme direct ka pata ni bina management quota ka denge ya ni)
 
-# Placement Details of Colleges I Found
 
-## 1. REVA University, Bangalore
-- **Average CSE Package**: ₹6–8 LPA
-
-## 2. CMR Institute of Technology (CMRIT), Bangalore
-- **Average CSE Package**: ~₹6 LPA (₹5.98 LPA overall)
-
-## 3. KPR Institute of Engineering & Technology, Coimbatore
-- **Average CSE Package**: ₹5.2 LPA
-- **Median Package (2024)**: ₹5 LPA
-
-## 4. Jyothy Institute of Technology (JIT), Bangalore
-- **Average Package (all branches)**: ~₹3.5–3.8 LPA
-
-## 5. Sai Vidya Institute of Technology (SVIT), Bangalore
-- **Estimated Average Package**: ₹3–4 LPA  
-  (Unofficial; based on VTU-college trends)
-
-## 6. GSS Institute of Technology (GSSIT), Bangalore
-- **Estimated Average Package**: ₹4–6 LPA
-
-## 7. Sapthagiri College of Engineering, Bangalore
-- **Average Package**: ₹4.2 LPA
-
-## 8. Kammavari Sangha Institute of Technology (KSIT), Bangalore
-- **Estimated Average Package**: ₹4–5 LPA
-
-## 9. Brindavan College of Engineering (BrCE), Bangalore
-- **Estimated Average Package**: ₹4–5 LPA
-
-## 10. Dayananda Sagar University (DSU), Bangalore
-- **Estimated Average Package**: ₹4–6 LPA
-
-## 11. East Point College of Engineering, Bangalore
-- **Estimated Average Package**: ₹3.5–5 LPA
-
-## 12. Cambridge Institute of Technology, Bangalore
-- **Estimated Average Package**: ₹4–6 LPA
-
-## 13. Hindustan Institute of Technology & Science, Chennai
-- **Estimated Average Package**: ₹4.5–6 LPA
-
-## 14. Sairam College of Engineering, Bangalore
-- **Estimated Average Package**: ₹3.5–5 LPA
-
-## 15. Saveetha Engineering College, Chennai
-- **Estimated Average Package**: ₹4–5 LPA
-
-## 16. Amrita School of Engineering (Amritapuri Campus), Kerala
-- **Average CSE Package**: ₹6–8 LPA
+if you can afford (16-17 lacs) consider this, warna you can consider elsewehere too, but mai kya kahunga pata hai?? ho paye to ye lelena as you said udhar bhi 12 lac, lag jayega, and also if you wanna save some money ask your bangalore mausa mausi location, and see colleges in that area, that way you can save on hostel and complete enhinerring from bangalore at price of any outside kilkata colleges you might have takeen (12-13 lacs), not to say the opportunuties in bangalore, tho this might be my agenda speaking ki youll be there too lmao but 70% sachme ye better hoga.. okay khatam ab
