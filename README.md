@@ -1,1 +1,38 @@
-# Collegeshits
+# College shits
+
+# Engineering Colleges Near Bangalore (Budget ≤ ₹2.5L, JEE/Direct Admission)
+
+## 📌 Profile Summary
+- JEE Main Percentile: ~70%
+- 12th Board Marks: 83%
+- Domicile: Non-Karnataka
+- Budget: Max ₹2.5 lakh/year
+
+These are private engineering colleges in Bangalore and nearby cities (Chennai, Coimbatore, Kerala…) that accept admission via JEE Main or direct (not high-fee management quota) within your budget.
+
+---
+
+## ✅ Recommended Colleges (JEE/Direct + Budget-Friendly)
+
+| College                        | Location     | Admission Mode | Tuition Fees     | Contact Info / Website                                                                 |
+|-------------------------------|--------------|----------------|------------------|----------------------------------------------------------------------------------------|
+| REVA University               | Bangalore    | JEE / Direct   | ₹2.2 L/year      | 🟢 Admissions: +91‑90211 90211 / 080‑46966966, ✉ admissions@reva.edu.in, 🌐 [reva.edu.in](https://www.reva.edu.in/contact-us) |
+| Presidency University         | Bangalore    | JEE / Direct   | ₹2.2–2.5 L/year  | 🟢 Admissions: +91‑90220 92222, 080‑23093500, ✉ admission@presidencyuniversity.in, 🌐 [presidencyuniversity.in](https://presidencyuniversity.in) |
+| CMR Institute of Technology   | Bangalore    | JEE / Direct   | ₹1.8–2.3 L/year  | 🟢 Admissions: 93429 00666, 080‑28524466, ✉ admission@cmrit.ac.in, 🌐 [cmrit.ac.in](https://www.cmrit.ac.in) |
+| Dayananda Sagar University    | Bangalore    | JEE / DSAT     | ₹2.4 L/year      | 🌐 [dsu.edu.in](https://www.dsu.edu.in) |
+| East Point College            | Bangalore    | JEE / Direct   | ₹1.5–1.7 L/year  | 🌐 [eastpoint.ac.in](https://www.eastpoint.ac.in) |
+| Cambridge Institute of Tech.  | Bangalore    | JEE / Direct   | ₹1.75–2 L/year   | 🌐 [citycambridge.edu.in](https://citycambridge.edu.in) |
+| Hindustan Institute           | Chennai      | JEE / Direct   | ₹2.2–2.4 L/year  | 🌐 [hindustanuniv.ac.in](https://hindustanuniv.ac.in) |
+| KPR Institute of Tech.        | Coimbatore   | JEE / Direct   | ₹1.1–1.3 L/year  | 🌐 [kpriet.edu.in](https://kpriet.edu.in) |
+| Sairam College                | Bangalore    | JEE / Direct   | ₹1.5 L/year      | 🌐 [sairam.edu.in](https://www.sairam.edu.in) |
+| Saveetha Engineering          | Chennai      | JEE / Direct   | ₹2.2–2.5 L/year  | 🌐 [saveetha.ac.in](https://saveetha.ac.in) |
+| Amrita (Amritapuri Campus)    | Kerala       | JEE / AEEE     | ₹2.5 L/year      | 🌐 [amrita.edu](https://www.amrita.edu) |
+
+---
+
+## 💡 Key Tips for You
+- Apply **early** – many private colleges offer **early bird scholarships** or merit quotas based on JEE + 12th.
+- Always ask for **"JEE Merit Quota"** or **"Academic Direct Admission"**, not "Management Quota".
+- Mention both **JEE Main (70%)** and **12th score (83%)** – many colleges consider both for discounts or eligibility.
+- Hostel costs can be avoided if you opt for nearby **PGs (₹6k–₹9k/month)** in most cities.
+- Perform well in the 1st year – some colleges give **fee waivers from 2nd year** based on performance.
