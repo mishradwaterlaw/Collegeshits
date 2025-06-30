@@ -36,3 +36,20 @@ These are private engineering colleges in Bangalore and nearby cities (Chennai, 
 - Mention both **JEE Main (70%)** and **12th score (83%)** – many colleges consider both for discounts or eligibility.
 - Hostel costs can be avoided if you opt for nearby **PGs (₹6k–₹9k/month)** in most cities.
 - Perform well in the 1st year – some colleges give **fee waivers from 2nd year** based on performance.
+
+
+#SOME MORE I FOUND 
+
+12. **Jyothy Institute of Technology (JIT), Bangalore**
+    - Mode: JEE / Direct (based on 12th marks + JEE)
+    - Fees: ₹1.5–₹2 L/year
+    - Contact: 080-28435027 / 080-29743416
+    - Email: principal@jyothyit.ac.in
+    - Website: https://www.jyothyit.ac.in
+
+13. **Sai Vidya Institute of Technology (SVIT), Bangalore**
+    - Mode: JEE / Direct (based on 12th marks or JEE Main)
+    - Fees: ₹1.5–₹2 L/year
+    - Contact: 080-28468191 / 9739828882
+    - Email: info@saividya.ac.in
+    - Website: https://saividya.ac.in
