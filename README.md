@@ -2,7 +2,7 @@
 
 # Engineering Colleges Near Bangalore (Budget ≤ ₹2.5L, JEE/Direct Admission)
 
-## 📌 Profile Summary
+##  Profile Summary
 - JEE Main Percentile: ~70%
 - 12th Board Marks: 83%
 - Domicile: Non-Karnataka
