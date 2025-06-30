@@ -53,3 +53,23 @@ These are private engineering colleges in Bangalore and nearby cities (Chennai, 
     - Contact: 080-28468191 / 9739828882
     - Email: info@saividya.ac.in
     - Website: https://saividya.ac.in
+    - 
+14. **GSS Institute of Technology (GSSIT), Kengeri, Bangalore**
+    - Mode: JEE Main or 12th marks (VTU-affiliated, AICTE-approved)
+    - Fees: ~₹1.5–2 L/year
+    - Website: https://gssit.ac.in (VTU-affiliated engineering programs) 1
+
+15. **Sapthagiri College of Engineering, Hesarghatta, Bangalore**
+    - Mode: Admission via 12th percentage or JEE Main score
+    - Fees: ~₹1.5–2 L/year
+    - Website: https://www.sapthagiri.edu.in 2
+
+16. **Kammavari Sangha Institute of Technology (KSIT), Bangalore**
+    - Mode: JEE Main or 12th marks (VTU-affiliated)
+    - Fees: ~₹1.5–2 L/year
+    - Website: https://ksit.ac.in 3
+
+17. **Brindavan College of Engineering (BrCE), Yelahanka, Bangalore**
+    - Mode: JEE Main or 12th marks (VTU-affiliated)
+    - Fees: ~₹1.5–2 L/year
+    - Website: https://brindavancollege.com 4
